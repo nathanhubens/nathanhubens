@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nathanhubens&style=flat-square&color=313131&label=views&labelColor=313131)
 
-### 👫Connect with me:
+### Connect with me:
 
 
 [![website](https://img.shields.io/badge/-@website-313131?style=flat-square&labelColor=313131&logo=safari&logoColor=white&color=313131)](https://nathanhubens.github.io)  
@@ -14,7 +14,7 @@
 [![linkedin](https://img.shields.io/badge/-@HubensN-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/nathan-hubens/) 
 
 
-### 📓 Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Neural Network Pruning](https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html)
 - [Speed-up inference with Batch Normalization Folding](https://nathanhubens.github.io/posts/deep%20learning/2020/04/20/BN.html)
