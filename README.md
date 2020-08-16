@@ -1,4 +1,18 @@
-Hi ! I'm Nathan 👋🏻
+
+
+<h3 align="center">Hi there ! I'm Nathan 👋🏻</h3>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=nathanhubens&style=flat-square&color=313131&label=views&labelColor=313131)
+
+### 👫Connect with me:
+
+
+[![website](https://img.shields.io/badge/-@website-313131?style=flat-square&labelColor=313131&logo=safari&logoColor=white&color=313131)](https://nathanhubens.github.io)  
+[![twitter](https://img.shields.io/badge/-@HubensN-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/HubensN)  
+[![linkedin](https://img.shields.io/badge/-@HubensN-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/nathan-hubens/) 
+
 
 ### 📓 Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -8,16 +22,3 @@ Hi ! I'm Nathan 👋🏻
 - [Deep Inside Autoencoders](https://nathanhubens.github.io/posts/deep%20learning/2018/02/25/deep-inside-autoencoders.html)
 <!-- BLOG-POST-LIST:END -->
 
-
-### 👫Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-
-[website]: https://nathanhubens.github.io
-[twitter]: https://twitter.com/HubensN
-[linkedin]: https://www.linkedin.com/in/nathan-hubens/
