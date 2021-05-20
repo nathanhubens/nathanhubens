@@ -1,6 +1,7 @@
 
 
-<h3 align="center">Hi there ! I'm Nathan ☾ </h3>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=222222&height=300&section=header&text=Hi%20There!%20I'm%20Nathan☾%20&fontSize=50&fontColor=FFFFFF&animation=FadeIn&fontAlignY=38&&descAlignY=80&descAlign=62)
 
 ---
 
