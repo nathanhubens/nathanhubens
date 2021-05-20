@@ -1,6 +1,7 @@
 
 
-<h3 align="center">Hi there ! I'm Nathan ☾ </h3>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=222222&height=300&section=header&text=Hi%20There!%20I'm%20Nathan☾%20&fontSize=50&fontColor=FFFFFF&animation=FadeIn&fontAlignY=38&&descAlignY=80&descAlign=62)
 
 ---
 
@@ -14,6 +15,7 @@
 
 ### ☯︎ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FasterAI](https://nathanhubens.github.io/posts/deep%20learning/2020/08/17/FasterAI.html)
 - [Neural Network Pruning](https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html)
 - [Speed-up inference with Batch Normalization Folding](https://nathanhubens.github.io/posts/deep%20learning/2020/04/20/BN.html)
 - [Build a simple Image Retrieval System with an Autoencoder](https://nathanhubens.github.io/posts/deep%20learning/2018/08/24/image-retrieval.html)
