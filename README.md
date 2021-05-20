@@ -1,11 +1,10 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=222222&height=300&section=header&text=Hi%20There!%20I'm%20Nathan☾%20&fontSize=50&fontColor=FFFFFF&animation=FadeIn&fontAlignY=38&&descAlignY=80&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=313131&height=300&section=header&text=Hi%20There!%20I'm%20Nathan☾%20&fontSize=50&fontColor=FFFFFF&animation=FadeIn&fontAlignY=38&&descAlignY=80&descAlign=62)
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=nathanhubens&style=flat&color=313131&label=views&labelColor=313131)
+
 
 ### ☯︎ Connect with me:
 
@@ -22,3 +21,6 @@
 - [Deep Inside Autoencoders](https://nathanhubens.github.io/posts/deep%20learning/2018/02/25/deep-inside-autoencoders.html)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=nathanhubens&style=flat&color=313131&label=views&labelColor=313131)
