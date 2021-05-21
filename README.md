@@ -9,7 +9,7 @@
 ### ☯︎ Connect with me:
 
 
-[![website](https://img.shields.io/badge/-@website-313131?style=flat&labelColor=313131&logo=safari&logoColor=white&color=313131)](https://nathanhubens.github.io) [![twitter](https://img.shields.io/badge/-@HubensN-313131?style=flat&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/HubensN)  [![linkedin](https://img.shields.io/badge/-@HubensN-313131?style=flat&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/nathan-hubens/) 
+[![website](https://img.shields.io/badge/-@website-313131?style=flat&labelColor=313131&logo=safari&logoColor=white&color=313131)](https://nathanhubens.github.io).  [![twitter](https://img.shields.io/badge/-@HubensN-313131?style=flat&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/HubensN)    [![linkedin](https://img.shields.io/badge/-@HubensN-313131?style=flat&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/nathan-hubens/) 
 
 
 ### ☯︎ Blog posts
