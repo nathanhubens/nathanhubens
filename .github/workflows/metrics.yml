@@ -13,4 +13,4 @@ jobs:
       - uses: nathanhubens/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.analytics }}
+          token: ${{ secrets.ANALYTICS }}
